@@ -15,3 +15,10 @@ Nesta aula, aprendemos:
 - Que é possível recuperar o url atual do browser utilizando o método `getCurrentUrl()`;
 - Que devemos utilizar o método `sendKeys()` para enviar textos para os `inputs` da página;
 - Que uma das maneiras de submeter um formulário é via método `submit()`.
+
+## AULA 03. Page Objects
+Nesta aula, aprendemos:
+
+- O que é o padrão Page Object;
+- As vantagens de se utilizar o padrão Page Object;
+- Como implementar o padrão Page Object com classes Java.
