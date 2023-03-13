@@ -22,3 +22,16 @@ Nesta aula, aprendemos:
 - O que é o padrão Page Object;
 - As vantagens de se utilizar o padrão Page Object;
 - Como implementar o padrão Page Object com classes Java.
+
+## AULA 04. Testes do cadastro de leilão
+
+Nesta aula, aprendemos:
+
+- Que o método `findElement()` devolve um objeto do tipo `WebElement`;
+- Que não devemos enviar `null` pelo método `sendKeys()` ao testar campos vazios;
+- Que um objeto Page Object pode devolver outro Page Object quando ocorre uma navegação entre páginas;
+- Que podemos reaproveitar o objeto `WebDriver` entre diferentes objetos Page Object;
+- Que podemos recuperar um elemento na página a partir de outro elemento;
+- Que podemos utilizar herança, design patterns, dentre outras práticas para organizar os códigos de testes da aplicação.
+
+

@@ -6,11 +6,6 @@ public class LoginTest {
 
     private LoginPage loginPage;
 
-    @BeforeAll
-    public static void beforeAll() {
-
-    }
-
     @BeforeEach
     public void beforeEach() {
         this.loginPage = new LoginPage();
