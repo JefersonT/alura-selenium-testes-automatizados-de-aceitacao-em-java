@@ -34,4 +34,14 @@ Nesta aula, aprendemos:
 - Que podemos recuperar um elemento na página a partir de outro elemento;
 - Que podemos utilizar herança, design patterns, dentre outras práticas para organizar os códigos de testes da aplicação.
 
+## AULA 05. AJAX e boas práticas
+
+Nesta aula, aprendemos:
+
+- Que alguns testes podem falhar quando a aplicação utilizar códigos JavaScript, como por exemplo em chamadas AJAX;
+- Que é possível configurar diferentes Timeouts na API do WebDriver;
+- As boas práticas recomendadas no Guideline do Selenium WebDriver.
+
+
+
 
